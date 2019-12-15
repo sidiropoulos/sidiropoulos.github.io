@@ -1,0 +1,30 @@
+<div class="container more-container">
+    <h3>{{ site.publications_title | default: "Publications" }}</h3>
+    {% for publication in site.data.publications %}
+        <div class="row clearfix experience">
+          <div class="col-md-1">
+            {%- if publication.year != '' -%}
+              <h2> {{ publication.year }} </h2>
+
+            {%- endif -%}
+          </div>
+          <div class="col-md-11">
+
+                <p>
+                    <b> {{ publication.title }}</b>
+                    {{ publication.authors }}
+                    <br>
+                    <i> {{ publication.journal }} </i>
+                    <a href={{ publication.doi }}>{{ publication.doi }}</a>
+                </p>
+                {%- if publication.break )) -%}
+                  <br>
+                {%- endif -%}
+
+                <!-- {{ publication.title | strip | markdownify }} -->
+
+                <!-- {{ publication.abstract | strip | markdownify }} -->
+          </div>
+        </div>
+    {% endfor %}
+  </div>
