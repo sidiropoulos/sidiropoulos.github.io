@@ -3,36 +3,38 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Nikos Sidiropoulos
+title: 3D genomics, data-viz, analog cameras and volleyball
+email: nikos.sidiropoulos@bric.ku.dk
+#phone: Your phone number (optional)
+#website: Your website (eg. https://google.com)(optional)
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+twitter_username: taxa_ti
+github_username:  sidiropoulos
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: sidiropoulos
+#instagram_username: jekyll
+#linkedin_username: nikos-sidiropoulos
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+#researchgate_username: Nikos_Sidiropoulos2
+googlescholar_username: tN33Mn8AAAAJ
+#orcid_username: 0000-0002-1854-1193
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/photo2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi there, my name is Nikos. I'm a bioinformatician, studying how the human genome folds in 3D and how mutations alter it to promote tumor growth.
+  I got my bachelors degree in Computer Science at the [Aristotle University of Thessaloniki](https://www.auth.gr/en) and later moved into bioinformatics where I acquired a master's degree and a PhD by the [University of Copenhagen](https://www.ku.dk/english/).
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  As you have probably guessed, I spend most of my working hours behind a screen. I enjoy coding, whether it is to ask questions on data, troubleshoot, or create pipelines. These days, I write most of my code in bash and R.
+
+  Sometimes I write R packages and [Shiny apps](https://shiny.rstudio.com/), like a chart to represent multiple observations ([sinaplot](https://cran.r-project.org/web/packages/sinaplot/vignettes/SinaPlot.html), [geom_sina](https://ggforce.data-imaginist.com/reference/geom_sina.html)) or a webserver to browse recurrent genomic structural variants across multiple tumor types ([SVscape](http://svscape.org/)).
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
