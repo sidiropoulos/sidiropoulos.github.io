@@ -83,6 +83,27 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.researchgate_username -%}
+          <li>
+            <a target="_blank" href="https://researchgate.net/profile/{{ site.researchgate_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-researchgate" title="ResearchGate link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.googlescholar_username -%}
+          <li>
+            <a target="_blank" href="https://scholar.google.com/citations?user={{ site.googlescholar_username| cgi_escape | escape }}&hl=en&oi=ao" class="button button--sacnite button--round-l">
+              <i class="ai ai-google-scholar-square" title="Google Scholar link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.orcid_username -%}
+          <li>
+            <a target="_blank" href="https://orcid.org/{{ site.orcid_username| escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-orcid" title="ORCiD link"></i>
+            </a>
+          </li>
+        {%- endif -%}
       </ul>
 
       {%- if site.email -%}
