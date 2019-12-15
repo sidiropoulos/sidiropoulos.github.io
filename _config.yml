@@ -27,7 +27,7 @@ googlescholar_username: tN33Mn8AAAAJ
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/photo2.jpg
+about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi there, my name is Nikos. I'm a bioinformatician, studying how the human genome folds in 3D and how mutations alter it to promote tumor growth.
   I got my bachelors degree in Computer Science at the [Aristotle University of Thessaloniki](https://www.auth.gr/en) and later moved into bioinformatics where I acquired a master's degree and a PhD by the [University of Copenhagen](https://www.ku.dk/english/).
