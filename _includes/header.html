@@ -108,7 +108,7 @@
 
       {%- if site.email -%}
         <p>
-          Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+          <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
       {%- if site.phone -%}
@@ -119,6 +119,11 @@
       {%- if site.website -%}
         <p>
           Web: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+        </p>
+      {%- endif -%}
+      {%- if site.address -%}
+        <p>
+          {{ site.address | escape }}
         </p>
       {%- endif -%}
     </div>
