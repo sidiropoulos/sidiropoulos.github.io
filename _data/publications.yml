@@ -38,6 +38,12 @@
   authors: |
     Sabarinathan & Pich <i>et al</i>.
   doi: 10.1101/190330
+
+- title: "Germline determinants of the somatic mutation landscape in 2,642 cancer genomes."
+  journal: bioRxiv.
+  authors: |
+    Waszak <i>et al</i>.
+  doi: 10.1101/208330
   break: true
 
 - title: "Reproducible Analysis of Sequencing-Based RNA Structure Probing Data with User-Friendly Tools."
