@@ -4,7 +4,7 @@
         <div class="row clearfix experience">
           <div class="col-md-1">
             {%- if publication.year != '' -%}
-              <h2> {{ publication.year }} </h2>
+              <h6> {{ publication.year }} </h6>
 
             {%- endif -%}
           </div>
@@ -14,7 +14,7 @@
                     <b> {{ publication.title }}</b>
                     {{ publication.authors }}
                     <i> {{ publication.journal }} </i>
-                    <a href={{ publication.doi }}>{{ publication.doi }}</a>
+                    <a href="https://doi.org/{{ publication.doi }}">doi: {{ publication.doi }}</a>
                 </p>
                 {%- if publication.break )) -%}
                   <br>

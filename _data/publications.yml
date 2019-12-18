@@ -3,46 +3,46 @@
   year: 2019
   journal: Nature Communications. 10, 172.
   authors: Ge & Schuster.
-  doi: https://doi.org/10.1038/s41467-018-08076-y
+  doi: 10.1038/s41467-018-08076-y
   break: true
 
 - title: "Molecular Evolution of Early-Onset Prostate Cancer Identifies Molecular Risk Markers and Clinical Trajectories."
   journal: Cancer Cell 34, 996-1011.e8.
   authors: |
     Gerhauser <i>et al</i>.
-  doi: https://doi.org/10.1016/j.ccell.2018.10.016
+  doi: 10.1016/j.ccell.2018.10.016
   year: 2018
 
 - title: "SinaPlot: An Enhanced Chart for Simple and Truthful Representation of Single Observations Over Multiple Classes."
   journal: Journal of Computational and Graphical Statistics, 27(3).
   authors: |
     Sidiropoulos <i>et al</i>.
-  doi: https://doi.org/10.1080/10618600.2017.1366914
+  doi: 10.1080/10618600.2017.1366914
   break: true
 
 - title: "The whole-genome landscape of medulloblastoma subtypes."
   journal: Nature, 547(7663), 311–317.
   authors: |
     Northcott <i>et al</i>.
-  doi: https://doi.org/10.1038/nature22973
+  doi: 10.1038/nature22973
   year: 2017
 
 - title: "Genome-wide analysis of differential transcriptional and epigenetic variability across human immune cell types."
   journal: Genome Biology, 18(1).
   authors: |
     Ecker <i>et al</i>.
-  doi: https://doi.org/10.1186/s13059-017-1156-8
+  doi: 10.1186/s13059-017-1156-8
 
 - title: "The whole-genome panorama of cancer drivers."
   journal: bioRxiv.
   authors: |
     Sabarinathan & Pich <i>et al</i>.
-  doi: https://doi.org/10.1101/190330
+  doi: 10.1101/190330
   break: true
 
 - title: "Reproducible Analysis of Sequencing-Based RNA Structure Probing Data with User-Friendly Tools."
   journal: Methods in Enzymology vol. 558.
   authors: |
     Kielpinski, Sidiropoulos & Vinther.
-  doi: https://doi.org/10.1016/bs.mie.2015.01.014
+  doi: 10.1016/bs.mie.2015.01.014
   year: 2015
