@@ -5,7 +5,11 @@
   qualification: Ph.D. in Cancer Genomics
   quote:
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    **Thesis**  
+    Functional consequences of structural variants on the 3D architecture of cancer genomes
+
+    **Advisor**  
+    Joachim Weischenfeldt
 
 - layout: left
   name: University of Copenhagen
@@ -13,12 +17,20 @@
   qualification: M.Sc. in Bioinformatics
   quote:
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    **Thesis**  
+    Identifying strong survival predictors in Acute Myeloid Leukemia using gene signatures
 
+    **Advisors**  
+    Nicolas Rapin & Frederik Otzen Bagger
+    
 - layout: left
   name: Aristotle University of Thessaloniki
   dates: 2011
   qualification: B.Sc. in Computer Science
   quote:
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    **Thesis**  
+    Audio restoration of folklore recording from Western Macedonia, Epirus and Thessaly
+
+    **Advisor**   
+    Ioannis Pitas

@@ -1,10 +1,44 @@
 # Experience template
-# - layout: left
-#   company: Company name
-#   link: Link to company (optional)
-#   job_title: Job title
-#   dates: Date Range (eg. November 2016 - present)
-#   quote: >
-#    Short description of the company (optional)
-#   description: | # this will include new lines to allow paragraphs
-#     Description of role
+- layout: left
+  qualification: Research assistant
+  name: BRIC, University of Copenhagen
+  dates: Sep 2019 - Present
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    Research position at the [Weischenfeldt Group](https://www.bric.ku.dk/Research/weischenfeldt-group/) with focus on:
+    
+    - Causes and consequences of genomic structural variants
+    - Assembly of highly rearranged genomes
+      
+- layout: left
+  qualification: Teaching assistant
+  name: Department of Biology, University of Copenhagen
+  dates: Feb 2017 - Apr 2017, Feb 2016 - Apr 2016
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    Workshops of a [bioinformatics introductory course](https://kurser.ku.dk/course/NBIB15021U) to:
+    
+    - Pairwise & multiple alignment
+    - Phylogenies
+    - RNA-seq analysis
+    - Use of [MEGA](https://www.megasoftware.net/) and [Galaxy](https://usegalaxy.org/)
+
+- layout: left
+  qualification: Research assistant
+  name: Department of Biology, University of Copenhagen
+  dates: Oct 2015 - Jun 2016
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    - Development of [sinaplot](https://cran.r-project.org/web/packages/sinaplot/vignettes/SinaPlot.html), a novel visualization method for multi-class data
+    - Survival analyses on the TCGA patient cohort using gene-signature expression profiles
+
+- layout: left
+  qualification: Student assistant
+  name: BRIC, University of Copenhagen
+  dates: Nov 2012 - Feb 2015
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    Part-time position at the [Bioinformatics Core Facility](https://www.bric.ku.dk/core-facilities/bioinformatics/)
+    
+    - Setup and maintainance of local Galaxy servers
+    - System administration
