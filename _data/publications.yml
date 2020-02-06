@@ -1,14 +1,14 @@
 # Project template
 - title: "Pan-cancer analysis of whole genomes."
   year: 2020
-  journal: Nature.
+  journal: Nature, 578, 82-93.
   authors: The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Network 2020.
-  doi: 
+  doi: 10.1038/s41586-020-1969-6
 
 - title: "Analyses of non-coding somatic drivers in 2,693 cancer whole genomes."
-  journal: Nature.
+  journal: Nature, 578, 102-111.
   authors: Rheinbay <i>et al</i>.
-  doi: 
+  doi: 10.1038/s41586-020-1965-x
   break: true
 
 - title: "The splicing factor RBM25 controls MYC activity in acute myeloid leukemia."
@@ -33,7 +33,7 @@
   break: true
 
 - title: "The whole-genome landscape of medulloblastoma subtypes."
-  journal: Nature, 547(7663), 311–317.
+  journal: Nature, 547(7663), 311-317.
   authors: |
     Northcott <i>et al</i>.
   doi: 10.1038/nature22973
