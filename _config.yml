@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   As you have probably guessed, I spend most of my working hours behind a screen. I enjoy coding, whether it is to ask questions on data, troubleshoot, or create pipelines. These days, I write most of my code in bash and R.
 
-  Sometimes I write R packages and [Shiny apps](https://shiny.rstudio.com/), like a chart to represent multiple observations ([sinaplot](https://cran.r-project.org/web/packages/sinaplot/vignettes/SinaPlot.html), [geom_sina](https://ggforce.data-imaginist.com/reference/geom_sina.html)) or a webserver to browse recurrent genomic structural variants across multiple tumor types ([SVscape](http://svscape.org/)).
+  Sometimes I write R packages and [Shiny apps](https://shiny.rstudio.com/), like a chart to represent multiple observations ([sinaplot](https://cran.r-project.org/web/packages/sinaplot/vignettes/SinaPlot.html), [geom_sina](https://ggforce.data-imaginist.com/reference/geom_sina.html)) or a webserver to browse recurrent genomic structural variants across multiple tumor types ([SVscape](http://13.48.6.180:3838/svscape/)).
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
