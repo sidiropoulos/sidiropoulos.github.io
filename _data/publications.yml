@@ -1,4 +1,10 @@
 # Project template
+- title: "Somatic structural variant formation is guided by and influences genome architecture."
+  year: 2022
+  journal: Genome Research.
+  authors: Sidiropoulos <i>et al</i>.
+  doi: 10.1101/gr.275790.121
+
 - title: "Pan-cancer analysis of whole genomes."
   year: 2020
   journal: Nature, 578, 82-93.
