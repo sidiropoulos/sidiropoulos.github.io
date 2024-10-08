@@ -4,20 +4,20 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Nikos Sidiropoulos
-title: 3D genomics, data-viz, analog cameras and volleyball
-email: nikos.sidiropoulos@bric.ku.dk
+title: Data-viz, Shiny dashboards, analog cameras and volleyball
+email: nikos.sidiro@gmail.com
 #phone: Your phone number (optional)
 #website: Your website (eg. https://google.com)(optional)
 address: Copenhagen, Denmark
 
 # Social links
-twitter_username: taxa_ti
+#twitter_username: taxa_ti
 github_username:  sidiropoulos
 #dribbble_username: jekyll
 #facebook_username: jekyll
 flickr_username: sidiropoulos
 #instagram_username: jekyll
-#linkedin_username: nikos-sidiropoulos
+linkedin_username: nikos-sidiropoulos
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
