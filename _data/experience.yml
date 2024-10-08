@@ -1,8 +1,15 @@
 # Experience template
 - layout: left
+  qualification: Senior Clinical Data Scientist
+  name: Novo Nordisk, Søborg, DK
+  dates: Apr 2024 - Present
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    - Product owner of clinical trial omics data application that visualize and distribute summarized clinical trial omics results within the organization.
+- layout: left
   qualification: Senior Research Scientist
   name: Novo Nordisk, Måløv, DK
-  dates: Sep 2021 - Present
+  dates: Sep 2021 - Mar 2024
   quote:
   description: | # this will include new lines to allow paragraphs
     - Targrt assessment of genetics and human expression evidence during the early stages of drug-discovery.
