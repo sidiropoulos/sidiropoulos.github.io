@@ -6,13 +6,14 @@
   quote:
   description: | # this will include new lines to allow paragraphs
     - Product owner of clinical trial omics data application that visualize and distribute summarized clinical trial omics results within the organization.
+    - Team lead
 - layout: left
   qualification: Senior Research Scientist
   name: Novo Nordisk, Måløv, DK
   dates: Sep 2021 - Mar 2024
   quote:
   description: | # this will include new lines to allow paragraphs
-    - Targrt assessment of genetics and human expression evidence during the early stages of drug-discovery.
+    - Target assessment of genetics and human expression evidence during the early stages of drug-discovery.
     - Identification of deregulated genes/pathways and biomarker discovery in Heart Failure, NASH, CKD and Type-2 Diabetes through RNA-seq and scRNA-seq assays of <i>in vitro</i> and <i>in vivo</i> disease models.
 
 - layout: left
