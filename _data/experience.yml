@@ -1,61 +1,55 @@
 # Experience template
 - layout: left
-  qualification: Senior Clinical Data Scientist
+  qualification: Digital Product Lead / Product Owner
   name: Novo Nordisk, Søborg, DK
   dates: Apr 2024 - Present
   quote:
   description: | # this will include new lines to allow paragraphs
-    - Product owner of clinical trial omics data application that visualize and distribute summarized clinical trial omics results within the organization.
-    - Team lead
+    - Built the Clinical Omics Dashboard from scratch in R/Shiny, shaping its functionality, user experience and visual identity. Own the roadmap for a portfolio of 24 applications serving 380 users across R&D.
+    - Set strategy, direction and priorities for a four-person delivery team; mentored colleagues contributing to the product. Lead delivery from requirements and solution design through development, scientific validation, release and adoption.
+    - Translate needs from trial interpretation, target discovery and maturation teams into validated user problems, prototypes and acceptance criteria. Manage priorities and backlogs in Azure DevOps and Jira.
+    - Track feature use, engagement and approximately 60 monthly active users. Built a model estimating DKK 30 million in productivity value from time saved.
+    - Transform, standardise and onboard clinical-trial data into Databricks; build a catalogue and data product to improve discoverability and reuse.
+
 - layout: left
-  qualification: Senior Research Scientist
+  qualification: Senior Data Scientist / Computational Biologist
   name: Novo Nordisk, Måløv, DK
   dates: Sep 2021 - Mar 2024
   quote:
   description: | # this will include new lines to allow paragraphs
-    - Target assessment of genetics and human expression evidence during the early stages of drug-discovery.
-    - Identification of deregulated genes/pathways and biomarker discovery in Heart Failure, NASH, CKD and Type-2 Diabetes through RNA-seq and scRNA-seq assays of <i>in vitro</i> and <i>in vivo</i> disease models.
+    - Assessed human genetic and gene-expression evidence to support target discovery and maturation across cardiovascular, metabolic and kidney diseases.
+    - Integrated internal and public multi-omics data into reproducible analyses for target and biomarker prioritisation.
+    - Analysed bulk and single-cell RNA-seq from <i>in vitro</i> and <i>in vivo</i> disease models to identify dysregulated genes and pathways in Heart Failure, NASH, CKD and Type 2 Diabetes.
 
 - layout: left
-  qualification: Postdoctoral researcher
-  name: BRIC, University of Copenhagen
-  dates: Dec 2019 - Aug 2021
+  qualification: Postdoctoral Researcher
+  name: BRIC and Finsen Laboratory, University of Copenhagen
+  dates: Jan 2020 - Aug 2021
   quote:
   description: | # this will include new lines to allow paragraphs
-    Research position at the [Weischenfeldt Group](https://www.bric.ku.dk/Research/weischenfeldt-group/) with focus on:
+    Research position at the [Weischenfeldt Group](https://www.bric.ku.dk/Research/weischenfeldt-group/):
 
-    - Causes and consequences of genomic structural variants
-    - Assembly of highly rearranged genomes
+    - Developed and published a computational method for analysing highly rearranged cancer genomes.
+    - Partnered with translational teams to investigate therapeutic pathways in medulloblastoma and prostate cancer.
 
 - layout: left
-  qualification: Teaching assistant
-  name: Department of Biology, University of Copenhagen
-  dates: Feb 2017 - Apr 2017, Feb 2016 - Apr 2016
+  qualification: PhD Researcher
+  name: BRIC and Finsen Laboratory, University of Copenhagen
+  dates: Sep 2016 - Dec 2019
   quote:
   description: | # this will include new lines to allow paragraphs
-    Workshops of a [bioinformatics introductory course](https://kurser.ku.dk/course/NBIB15021U) to:
+    - Investigated how structural variants alter the 3D architecture of cancer genomes.
+    - Integrated genomic, transcriptomic and epigenomic data in reproducible pipelines to study the functional consequences of genome rearrangements.
 
-    - Pairwise & multiple alignment
-    - Phylogenies
-    - RNA-seq analysis
-    - Use of [MEGA](https://www.megasoftware.net/) and [Galaxy](https://usegalaxy.org/)
+    **Thesis:** Functional consequences of structural variants on the 3D architecture of cancer genomes
+    *Secondment at the [Aiden Lab](https://www.aidenlab.org/), Baylor College of Medicine, Houston TX*
 
 - layout: left
-  qualification: Research assistant
-  name: Department of Biology, University of Copenhagen
-  dates: Oct 2015 - Jun 2016
+  qualification: Research &amp; Technical Roles
+  name: University of Copenhagen / BRIC
+  dates: Nov 2012 - Aug 2016
   quote:
   description: | # this will include new lines to allow paragraphs
-    - Development of [sinaplot](https://cran.r-project.org/web/packages/sinaplot/vignettes/SinaPlot.html), a novel visualization method for multi-class data
-    - Survival analyses on the TCGA patient cohort using gene-signature expression profiles
-
-- layout: left
-  qualification: Student assistant
-  name: BRIC, University of Copenhagen
-  dates: Nov 2012 - Feb 2015
-  quote:
-  description: | # this will include new lines to allow paragraphs
-    Part-time position at the [Bioinformatics Core Facility](https://www.bric.ku.dk/core-facilities/bioinformatics/)
-
-    - Setup and maintainance of local Galaxy servers
-    - System administration
+    - **Research assistant** (Oct 2015 – Jun 2016): Developed [sinaplot](https://cran.r-project.org/web/packages/sinaplot/vignettes/SinaPlot.html), a novel R visualisation package for multi-class data; survival analyses on the TCGA cohort.
+    - **Teaching assistant** (Feb 2016 – Apr 2016, Feb 2017 – Apr 2017): Workshops for a [bioinformatics introductory course](https://kurser.ku.dk/course/NBIB15021U) covering pairwise & multiple alignment, phylogenetics and RNA-seq.
+    - **Student assistant** (Nov 2012 – Feb 2015): Setup and maintenance of local Galaxy servers; system administration at the [Bioinformatics Core Facility](https://www.bric.ku.dk/core-facilities/bioinformatics/).

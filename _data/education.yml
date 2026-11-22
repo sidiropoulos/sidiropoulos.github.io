@@ -1,38 +1,38 @@
 # Education Template
 - layout: left
   name: University of Copenhagen
-  dates: 2019
+  dates: 2016 - 2019
   qualification: Ph.D. in Cancer Genomics
   quote:
   description: | # this will include new lines to allow paragraphs
-    **Thesis**  
+    **Thesis**
     Functional consequences of structural variants on the 3D architecture of cancer genomes
 
-    **Advisor**  
+    **Advisor**
     Joachim Weischenfeldt
-    
-    *Secondment at the [Aidenlab](https://www.aidenlab.org/), [Baylor College of Medicine](https://www.bcm.edu/), Houston TX*
+
+    *Secondment at the [Aiden Lab](https://www.aidenlab.org/), [Baylor College of Medicine](https://www.bcm.edu/), Houston TX*
 
 - layout: left
   name: University of Copenhagen
-  dates: 2015
+  dates: 2012 - 2014
   qualification: M.Sc. in Bioinformatics
   quote:
   description: | # this will include new lines to allow paragraphs
-    **Thesis**  
+    **Thesis**
     Identifying strong survival predictors in Acute Myeloid Leukemia using gene signatures
 
-    **Advisors**  
+    **Advisors**
     Nicolas Rapin & Frederik Otzen Bagger
-    
+
 - layout: left
   name: Aristotle University of Thessaloniki
-  dates: 2011
+  dates: 2005 - 2011
   qualification: B.Sc. in Computer Science
   quote:
   description: | # this will include new lines to allow paragraphs
-    **Thesis**  
+    **Thesis**
     Audio restoration of folklore song recordings from Western Macedonia, Epirus and Thessaly
 
-    **Advisor**   
+    **Advisor**
     Ioannis Pitas
