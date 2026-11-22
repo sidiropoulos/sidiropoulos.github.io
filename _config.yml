@@ -30,11 +30,11 @@ orcid_username: 0000-0002-1854-1193
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/square.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Nikos — a product lead and computational biologist with five years at Novo Nordisk across target discovery, target maturation and clinical-trial omics. I built a scientific data platform from scratch and led its strategy, development and adoption across R&D. I combine hands-on [R/Shiny](https://shiny.rstudio.com/) expertise and a PhD in Cancer Genomics with experience translating scientific needs into practical software for researchers.
+  Hi, I'm Nikos — a Scientific Software and Data Product Lead at [Novo](https://www.novonordisk.com/), where I set strategy and own the roadmap for a portfolio of 24 applications serving 380 users across R&D. I lead delivery in [R/Shiny](https://shiny.rstudio.com/) and [Databricks](https://www.databricks.com/), translating scientific needs from clinical-trial, target discovery and target maturation teams into validated products.
 
-  I got my bachelor's degree in Computer Science at the [Aristotle University of Thessaloniki](https://www.auth.gr/en) and later moved into bioinformatics, acquiring a master's degree and a PhD at the [University of Copenhagen](https://www.ku.dk/english/).
+  My background is in computational biology — I hold a PhD in Cancer Genomics from the [University of Copenhagen](https://www.ku.dk/english/) and bring deep expertise in multi-omics data, from bulk and single-cell RNA-seq to structural variants and clinical-trial omics.
 
-  Outside of work I am head coach of adult volleyball teams and have led teams to championships in the Danish 1st and 2nd Divisions. I also author R packages — including [sinaplot](https://cran.r-project.org/web/packages/sinaplot/vignettes/SinaPlot.html) / [geom_sina](https://ggforce.data-imaginist.com/reference/geom_sina.html) — and I enjoy analog photography.
+  Outside of work I head-coach adult volleyball teams and have led them to championships in the Danish 1st and 2nd Divisions. I also author R packages — including [sinaplot](https://cran.r-project.org/web/packages/sinaplot/vignettes/SinaPlot.html) / [geom_sina](https://ggforce.data-imaginist.com/reference/geom_sina.html).
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
